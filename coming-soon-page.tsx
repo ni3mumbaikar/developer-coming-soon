@@ -157,7 +157,7 @@ export default function Component() {
             <p className="text-sm">
               © {new Date().getFullYear()} DevPortfolio. Crafted with passion and lots of coffee ☕
             </p>
-            <p className="text-xs mt-2">Expected launch: Q2 2024</p>
+            <p className="text-xs mt-2">Expected launch: Q2 2025</p>
           </div>
         </footer>
       </div>
